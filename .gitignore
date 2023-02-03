@@ -1,0 +1,7 @@
+__pycache__
+.idea/
+*.pyc
+.pypirc
+.vscode
+dist
+build
