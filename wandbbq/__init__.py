@@ -1,1 +1,1 @@
-from wandbbq import init
+from wandbbq.main import init

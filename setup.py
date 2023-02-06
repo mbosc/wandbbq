@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name='wandbbq',
     packages=find_packages(),
-    version='0.0.1',
+    version='0.0.2',
     license='MIT',
     description='Wandb Backup and Quit - Unleash the power of wandb without fear of losing your data',
     long_description=long_description,
@@ -14,7 +14,7 @@ setup(
     author='Matteo Boschini',
     author_email='matteoboschini3@gmail.com',
     url='https://github.com/mbosc/wandbbq',
-    download_url='https://github.com/mbosc/wandbbq/archive/refs/tags/v0.0.1.zip',
+    download_url='https://github.com/mbosc/wandbbq/archive/refs/tags/v0.0.2.zip',
     keywords=['wandb', 'bbq', 'offline', 'python', 'utility'],
     install_requires=["wandb"],
     classifiers=[
